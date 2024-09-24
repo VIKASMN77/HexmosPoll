@@ -1,1 +1,0 @@
-/home/vikas/Desktop/W1/reactpoll/src/App.js
